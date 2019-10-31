@@ -1,0 +1,15 @@
+.tab_header {
+  padding-left: 25px;
+  padding-right: 25px;
+  display: flex;
+  height: 93px;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 93px;
+  background: red;
+}
+
+.tab_content {
+  display: flex;
+  height: calc(100vh - 93px - 149px);
+}
